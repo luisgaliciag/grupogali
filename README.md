@@ -1,0 +1,2 @@
+# grupogali
+practica desarrollo 
